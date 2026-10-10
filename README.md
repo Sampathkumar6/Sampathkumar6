@@ -35,6 +35,14 @@
 
 - 🎓 My certifications and courses:
   - [Data with Baraa: SQL course](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/)
-    <p> <img src="images/SQL_udemy_Certificate.png" height="34"></p>
+ 
+<table>
+  <tr>
+    <th align="center">Certificate</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/SQL_udemy_Certificate.png" width="50" alt="Certificate"></td>
+  </tr>
+</table>
 
 If you want to talk to me or discuss something, feel free to ping me on LinkedIn.
