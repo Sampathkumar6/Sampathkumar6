@@ -30,19 +30,7 @@
   - [SQL-zero-to-hero](https://github.com/Sampathkumar6/SQL-zero-to-hero): my SQL learning journey, from SELECT to window functions and recursive CTEs
   - [sql_data_warehouse_project](https://github.com/Sampathkumar6/sql_data_warehouse_project): Building data warehouse from scratch using medallion (Bronze, Silver, Gold) architecture
 
-- 📝 Here are my most recent blogs:
-  - *(coming soon)*
-
 - 🎓 My certifications and courses:
   - [Data with Baraa: SQL course](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/)
  
-<table>
-  <tr>
-    <th align="center">Certificate</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/SQL_udemy_Certificate.png" width="50" alt="Certificate"></td>
-  </tr>
-</table>
-
 If you want to talk to me or discuss something, feel free to ping me on LinkedIn.
