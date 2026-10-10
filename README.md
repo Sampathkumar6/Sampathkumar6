@@ -22,16 +22,7 @@
   - ☁️ Azure, Databricks / PySpark and Data Factory (on the roadmap)
   - ☁️ AWS, S3, Athena, Glue basics, Airflow (on the roadmap)
 
-<p>
-  <img src="images/badge-sql.png" height="34" alt="SQL">
-  <img src="images/badge-git.png" height="34" alt="Git and GitHub">
-  <img src="images/badge-python.png" height="34" alt="Python">
-  <img src="images/badge-pandas.png" height="34" alt="Pandas">
-  <img src="images/badge-azure.png" height="34" alt="Azure">
-  <img src="images/badge-databricks.png" height="34" alt="Databricks">
-  <img src="images/badge-pyspark.png" height="34" alt="PySpark">
-  <img src="images/badge-adf.png" height="34" alt="Azure Data Factory">
-</p>
+<p> <img src="images/badge-excel.png" height="34" alt="Excel"> <img src="images/badge-sql.png" height="34" alt="SQL"> <img src="images/badge-git.png" height="34" alt="Git and GitHub"> <img src="images/badge-python.png" height="34" alt="Python"> <img src="images/badge-pandas.png" height="34" alt="Pandas"> <img src="images/badge-azure.png" height="34" alt="Azure"> <img src="images/badge-databricks.png" height="34" alt="Databricks"> <img src="images/badge-pyspark.png" height="34" alt="PySpark"> <img src="images/badge-adf.png" height="34" alt="Azure Data Factory"> </p>
 
 - 💬 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/sampath-kumar-p-01904216b) | [Email](mailto:sampathbunty6@gmail.com)
 
@@ -43,7 +34,7 @@
   - *(coming soon)*
 
 - 🎓 My certifications and courses:
-  - [Data with Baraa: SQL course](https://www.youtube.com/@DataWithBaraa) (in progress)
-  - *(add certifications here as you earn them)*
+  - [Data with Baraa: SQL course](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/)
+    <p> <img src="images/SQL_udemy_Certificate.png" height="34" alt="Excel"></p>
 
 If you want to talk to me or discuss something, feel free to ping me on LinkedIn.
