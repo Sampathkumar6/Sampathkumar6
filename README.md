@@ -3,7 +3,7 @@
 </p>
 
 # Hello, I am Sam 👋
-
+## My Pronouns are he/him/his
 ### Thanks for stopping by. Here's a bit about myself...
 
 - 🧑‍💻 I'm currently transitioning into **data engineering**. That means...
@@ -16,10 +16,11 @@
   - 📊 Standardizing, validating and geocoding very large property datasets (TIV, reinsurance layering)
   - 🔍 Strong instincts for data quality, because I know where bad data hides
 
-  - 👨‍🎓 I am currently learning:
+- 👨‍🎓 I am currently learning:
   - 🗄️ SQL (window functions, recursive CTEs, query logic)
   - 🐍 Python and Pandas, picked up through projects
   - ☁️ Azure, Databricks / PySpark and Data Factory (on the roadmap)
+  - ☁️ AWS, S3, Athena, Glue basics, Airflow (on the roadmap)
 
 <p>
   <img src="images/badge-sql.png" height="34" alt="SQL">
@@ -32,11 +33,11 @@
   <img src="images/badge-adf.png" height="34" alt="Azure Data Factory">
 </p>
 
-- 💬 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) | [Email](mailto:YOUR-EMAIL)
+- 💬 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/sampath-kumar-p-01904216b) | [Email](mailto:sampathbunty6@gmail.com)
 
 - 🔖 Here are my projects so far:
   - [SQL-zero-to-hero](https://github.com/Sampathkumar6/SQL-zero-to-hero): my SQL learning journey, from SELECT to window functions and recursive CTEs
-  - *(next project goes here)*
+  - [sql_data_warehouse_project](https://github.com/Sampathkumar6/sql_data_warehouse_project): Building data warehouse from scratch using medallion (Bronze, Silver, Gold) architecture
 
 - 📝 Here are my most recent blogs:
   - *(coming soon)*
