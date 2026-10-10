@@ -31,10 +31,7 @@
   - [sql_data_warehouse_project](https://github.com/Sampathkumar6/sql_data_warehouse_project): Building data warehouse from scratch using medallion (Bronze, Silver, Gold) architecture
 
 - 🎓 My certifications and courses:
-  - SQL Zero to Hero (Udemy), completion certificate:
-    <br>
-    <a href="images/sql-zero-to-hero-certificate.png">
-      <img src="images/SQL_udemy_Certificate.png" width="320" alt="Udemy SQL Zero to Hero completion certificate">
-    </a>
+  - [SQL Zero to Hero, Udemy (completion certificate)](images/SQL_udemy_Certificate.png)
+  
  
 If you want to talk to me or discuss something, feel free to ping me on LinkedIn.
