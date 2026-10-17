@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="images/banner.png" alt="Sam - Data Engineer in the making" width="100%">
+  <img src="images/banner.png" alt="Sampath - Data Engineer in the making" width="100%">
 </p>
 
-# Hello, I am Sam 👋
-## My Pronouns are he/him/his
+### Hello, I am Sampath 👋
 ### Thanks for stopping by. Here's a bit about myself...
 
 - 🧑‍💻 I'm currently transitioning into **data engineering**. That means...
