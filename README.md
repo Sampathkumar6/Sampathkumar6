@@ -28,6 +28,7 @@
 - 🔖 Here are my projects so far:
   - [SQL-zero-to-hero](https://github.com/Sampathkumar6/SQL-zero-to-hero): my SQL learning journey, from SELECT to window functions and recursive CTEs
   - [sql_data_warehouse_project](https://github.com/Sampathkumar6/sql_data_warehouse_project): Building data warehouse from scratch using medallion (Bronze, Silver, Gold) architecture
+  - [databricks_Lakehouse_pipeline](https://github.com/Sampathkumar6/databricks_bootcamp): Building an end-to-end Lakehouse pipeline,a mini hands-on project with Databricks 
 
 - 🎓 My certifications and courses:
   - [SQL Zero to Hero, Udemy (completion certificate)]
